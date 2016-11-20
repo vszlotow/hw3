@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HW3</string>
+    <string name="text_view1">text_view1_text</string>
+    <string name="text_view2">text_view2_text</string>
+    <string name="text_view3">text_view3_text</string>
+    <string name="button1">button1_text</string>
+    <string name="button2">button2_text</string>
+    <string name="button3">button3_text</string>
+    <string name="edittext1">EditText1</string>
+    <string name="edittext2">EditText2</string>
+    <string name="edittext3">EditText3</string>
+</resources>
